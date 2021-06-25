@@ -9,8 +9,6 @@ This repo contains codes for the image translation models.For this project we ma
 ## Results
 
 ![Test](test1.png)   ![Test](test1_inf.jpg)
-![Test](test2.jpg)   ![Test](test2_inf.jpg)
-![Test](test3.jpg)   ![Test](test3_inf.jpg)
 ![Test](test4.jpeg)   ![Test](test4_inf.jpg)
 
 Model can be [downloaded from here.](https://drive.google.com/drive/folders/1IEbUm-AUze-J1sZIkHD5CfOFpLQD3l52?usp=sharing)
